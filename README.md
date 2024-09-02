@@ -1,3 +1,4 @@
+<div align="center"> 
 ## Hi its  Naeem Ashraf  Here👋
 # 💫 About Me:
 🌱 Immersed in coding<br>💬 Ask me about - <br>⚡ Turning Ideas into Reality
@@ -18,6 +19,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NP5555&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 
 <!--
