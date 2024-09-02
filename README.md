@@ -1,6 +1,7 @@
 <div align="center"> 
-## Hi its  Naeem Ashraf  Here👋
-# 💫 About Me:
+## Hi its  👋 #
+  <br>
+# 💫Naeem Ashraf  Here #
 🌱 Immersed in coding<br>💬 Ask me about - <br>⚡ Turning Ideas into Reality
 
 
