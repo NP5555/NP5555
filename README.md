@@ -1,8 +1,8 @@
 <div align="center"> 
 
  
-# 💫  Hi its Naeem  Here <br>
-🌱 Immersed in coding<br>💬 Ask me about - <br>⚡ Turning Ideas into Reality
+# 💫 Naeem  Here <br>
+🌱 Immersed in coding<br>⚡ Turning Ideas into Reality
 
 
 ## 🌐 Socials:
