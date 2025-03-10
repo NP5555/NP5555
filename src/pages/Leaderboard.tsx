@@ -184,7 +184,7 @@ const Leaderboard = () => {
               <tr key={entry._id} className="hover:bg-gold-500/5">
                 <td className="px-6 py-4">{entry.postion}</td>
                 <td className="px-6 py-4">
-                  {entry.userId.name}
+                  {entry.userId ? entry.userId.name : 'Unknown User'}
                 </td>
                 <td className="px-6 py-4">{entry.coins}</td>
                 <td className="px-6 py-4">{entry.shares}</td>
