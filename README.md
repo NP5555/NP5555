@@ -1,7 +1,7 @@
 <div align="center"> 
 
  
-# 💫 N👋 Hey, I'm Naeem! <br>
+# 👋 Hey, I'm Naeem! <br>
 🌱 
 I'm a passionate developer who loves bringing ideas to life through code. With a knack for crafting seamless web experiences, I thrive on solving complex problems and building projects that make a difference. Currently, I'm diving deeper into modern web frameworks and cloud technologies, always eager to learn and grow.
 🌱 Learning Journey: Exploring advanced TypeScript patterns and serverless architectures.⚡ Fun Fact: I once debugged a production issue while on a hiking trail—talk about coding in the wild!<br>⚡ Turning Ideas into Reality <br>
@@ -15,28 +15,14 @@ I work with a wide range of tools and technologies to build robust, scalable app
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ChNaeemPansota) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naeem_pansota_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naeem-242663190/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsNaeemPansota) 
 
 🚀 What I'm Working On
-Building a real-time chat app with Socket.io and React.
-Experimenting with serverless APIs on AWS Lambda.
-Contributing to open-source projects to give back to the community.
+<br>Building a real-time chat app with Socket.io and React.
+<br>Experimenting with serverless APIs on AWS Lambda.
+<br>Contributing to open-source projects to give back to the community.
 
 🤝 Let's Collaborate
-I'm always excited to work on innovative projects or contribute to open-source. If you have an idea or need a hand, feel free to reach out!
-📫 Reach me at: LinkedIn or X💬 Ask me about: React, Node.js, or how to make the perfect cup of chai!
- Naeem's GitHub Profile
- Crafting code, one commit at a time.
+I'm always excited to work on innovative projects or contribute to open-source.<br> Feel free to reach out if you have an idea or need a hand!
+<br>📫 Reach me at: LinkedIn or X💬 Ask me about: React, Node.js, or how to make the perfect cup of chai!
+<br> Naeem's GitHub Profile
+ <br>Crafting code, one commit at a time.
 /div>
 </div>
-<!--
-**NP5555/NP5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
